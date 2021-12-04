@@ -1,1 +1,1 @@
-# Association_Rule_Mining
+Association rule mining and apriori algorithms are important concepts in data science. They are particularly useful in market basket analysis. If properly applied, they can improve retail sales significantly. This repo contains some sample of my work with these algorithms. 
